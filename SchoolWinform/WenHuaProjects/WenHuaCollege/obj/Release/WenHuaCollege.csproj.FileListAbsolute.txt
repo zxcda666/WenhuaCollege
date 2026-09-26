@@ -1,0 +1,10 @@
+D:\Winform\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Release\WenHuaCollege.exe.config
+D:\Winform\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Release\WenHuaCollege.exe
+D:\Winform\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Release\WenHuaCollege.pdb
+D:\Winform\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Release\WenHuaCollege.csproj.AssemblyReference.cache
+D:\Winform\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Release\WenHuaCollege.Form1.resources
+D:\Winform\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Release\WenHuaCollege.Properties.Resources.resources
+D:\Winform\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Release\WenHuaCollege.csproj.GenerateResource.cache
+D:\Winform\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Release\WenHuaCollege.csproj.CoreCompileInputs.cache
+D:\Winform\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Release\WenHuaCollege.exe
+D:\Winform\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Release\WenHuaCollege.pdb
