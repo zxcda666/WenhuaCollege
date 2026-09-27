@@ -63,7 +63,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "MenuUC";
             this.Size = new System.Drawing.Size(350, 74);
-            this.Load += new System.EventHandler(this.MenuUC_Load);
+            this.Click += new System.EventHandler(this.MenuUC_Click);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

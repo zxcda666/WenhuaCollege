@@ -20,4 +20,6 @@ D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenH
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.exe
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.pdb
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.UserControls.MenuUC.resources
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Pages.Homepage.resources
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Pages.SettingPage.resources
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.exe.config

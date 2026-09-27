@@ -38,7 +38,6 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.picLogoMain = new System.Windows.Forms.PictureBox();
-            this.menuUC2 = new WenHuaCollege.UserControls.MenuUC();
             this.tlPanelContainer.SuspendLayout();
             this.tlPanelContent.SuspendLayout();
             this.flPanelMenu.SuspendLayout();
@@ -84,9 +83,8 @@
             // 
             // flPanelMenu
             // 
-            this.flPanelMenu.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.flPanelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(40)))), ((int)(((byte)(45)))));
             this.flPanelMenu.Controls.Add(this.panel2);
-            this.flPanelMenu.Controls.Add(this.menuUC2);
             this.flPanelMenu.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flPanelMenu.Location = new System.Drawing.Point(0, 0);
             this.flPanelMenu.Margin = new System.Windows.Forms.Padding(0);
@@ -166,15 +164,6 @@
             this.picLogoMain.TabIndex = 0;
             this.picLogoMain.TabStop = false;
             // 
-            // menuUC2
-            // 
-            this.menuUC2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(40)))), ((int)(((byte)(45)))));
-            this.menuUC2.Location = new System.Drawing.Point(0, 74);
-            this.menuUC2.Margin = new System.Windows.Forms.Padding(0);
-            this.menuUC2.Name = "menuUC2";
-            this.menuUC2.Size = new System.Drawing.Size(350, 74);
-            this.menuUC2.TabIndex = 3;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
@@ -183,6 +172,7 @@
             this.Controls.Add(this.tlPanelContainer);
             this.Name = "Form1";
             this.Text = resources.GetString("$this.Text");
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.tlPanelContainer.ResumeLayout(false);
             this.tlPanelContent.ResumeLayout(false);
             this.flPanelMenu.ResumeLayout(false);
@@ -205,7 +195,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Panel panelContent;
         private System.Windows.Forms.Panel panel2;
-        private UserControls.MenuUC menuUC2;
     }
 }
 
