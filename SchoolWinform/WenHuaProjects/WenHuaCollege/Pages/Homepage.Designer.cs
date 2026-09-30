@@ -1,6 +1,6 @@
 ﻿namespace WenHuaCollege.Pages
 {
-    partial class Homepage
+    partial class HomePage
     {
         /// <summary> 
         /// 必需的设计器变量。
@@ -40,12 +40,13 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "首页";
             // 
-            // homepages
+            // HomePage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.Controls.Add(this.label1);
-            this.Name = "homepages";
+            this.Name = "HomePage";
             this.Size = new System.Drawing.Size(693, 660);
             this.ResumeLayout(false);
             this.PerformLayout();

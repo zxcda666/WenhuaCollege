@@ -22,4 +22,13 @@ D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenH
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.UserControls.MenuUC.resources
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Pages.Homepage.resources
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Pages.SettingPage.resources
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Debug\Newtonsoft.Json.dll
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Debug\Newtonsoft.Json.xml
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCo.0792ED3D.Up2Date
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Debug\EntityFramework.dll
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Debug\EntityFramework.SqlServer.dll
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Debug\EntityFramework.xml
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Debug\EntityFramework.SqlServer.xml
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Pages.MenuPage.resources
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.exe.config
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.AddMenuForm.resources

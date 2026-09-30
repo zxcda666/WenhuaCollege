@@ -33,18 +33,18 @@
             this.tlPanelContent = new System.Windows.Forms.TableLayoutPanel();
             this.flPanelMenu = new System.Windows.Forms.FlowLayoutPanel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
             this.panelContent = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.picLogoMain = new System.Windows.Forms.PictureBox();
             this.tlPanelContainer.SuspendLayout();
             this.tlPanelContent.SuspendLayout();
             this.flPanelMenu.SuspendLayout();
             this.panel2.SuspendLayout();
+            this.panelContent.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picLogoMain)).BeginInit();
             this.SuspendLayout();
             // 
             // tlPanelContainer
@@ -102,6 +102,39 @@
             this.panel2.Size = new System.Drawing.Size(350, 74);
             this.panel2.TabIndex = 1;
             // 
+            // panelContent
+            // 
+            this.panelContent.BackColor = System.Drawing.Color.White;
+            this.panelContent.Controls.Add(this.button2);
+            this.panelContent.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelContent.Location = new System.Drawing.Point(350, 0);
+            this.panelContent.Margin = new System.Windows.Forms.Padding(0);
+            this.panelContent.Name = "panelContent";
+            this.panelContent.Size = new System.Drawing.Size(1046, 671);
+            this.panelContent.TabIndex = 1;
+            this.panelContent.Paint += new System.Windows.Forms.PaintEventHandler(this.panelContent_Paint);
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.panel1.Controls.Add(this.pictureBox1);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1396, 120);
+            this.panel1.TabIndex = 1;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(862, 147);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(40)))), ((int)(((byte)(45)))));
@@ -120,49 +153,17 @@
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.UseVisualStyleBackColor = false;
             // 
-            // panelContent
-            // 
-            this.panelContent.BackColor = System.Drawing.Color.White;
-            this.panelContent.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelContent.Location = new System.Drawing.Point(350, 0);
-            this.panelContent.Margin = new System.Windows.Forms.Padding(0);
-            this.panelContent.Name = "panelContent";
-            this.panelContent.Size = new System.Drawing.Size(1046, 671);
-            this.panelContent.TabIndex = 1;
-            // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Controls.Add(this.picLogoMain);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(0);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1396, 120);
-            this.panel1.TabIndex = 1;
-            // 
             // pictureBox1
             // 
-            this.pictureBox1.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.pictureBox1.Image = global::WenHuaCollege.Properties.Resources.LogoSecondary;
-            this.pictureBox1.Location = new System.Drawing.Point(557, 0);
+            this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(2)))), ((int)(((byte)(112)))), ((int)(((byte)(195)))));
+            this.pictureBox1.Image = global::WenHuaCollege.Properties.Resources.LogoSecondary2;
+            this.pictureBox1.Location = new System.Drawing.Point(-276, 0);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(617, 120);
+            this.pictureBox1.Size = new System.Drawing.Size(1672, 120);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
-            // 
-            // picLogoMain
-            // 
-            this.picLogoMain.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.picLogoMain.Image = global::WenHuaCollege.Properties.Resources.LogoMain;
-            this.picLogoMain.Location = new System.Drawing.Point(0, 0);
-            this.picLogoMain.Name = "picLogoMain";
-            this.picLogoMain.Size = new System.Drawing.Size(558, 120);
-            this.picLogoMain.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picLogoMain.TabIndex = 0;
-            this.picLogoMain.TabStop = false;
             // 
             // Form1
             // 
@@ -177,9 +178,9 @@
             this.tlPanelContent.ResumeLayout(false);
             this.flPanelMenu.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
+            this.panelContent.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picLogoMain)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -190,11 +191,11 @@
         private System.Windows.Forms.TableLayoutPanel tlPanelContent;
         private System.Windows.Forms.FlowLayoutPanel flPanelMenu;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.PictureBox picLogoMain;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Panel panelContent;
         private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Button button2;
     }
 }
 

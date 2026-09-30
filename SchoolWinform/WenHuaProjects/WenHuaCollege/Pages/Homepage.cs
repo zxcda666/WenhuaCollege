@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WenHuaCollege.Pages
 {
-    public partial class Homepage : UserControl
+    public partial class HomePage : UserControl
     {
-        public Homepage()
+        public HomePage()
         {
             InitializeComponent();
         }
