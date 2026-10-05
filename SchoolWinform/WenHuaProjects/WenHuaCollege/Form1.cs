@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -160,7 +160,7 @@ namespace WenHuaCollege
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MenuPage menuPage = new MenuPage();
+            MenuPage menuPage = new MenuPage(this);
             panelContent.Controls.Clear();
             menuPage.Dock = DockStyle.Fill;
             panelContent.Controls.Add(menuPage);

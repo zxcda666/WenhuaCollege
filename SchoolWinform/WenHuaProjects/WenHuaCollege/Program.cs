@@ -16,6 +16,8 @@ namespace WenHuaCollege
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            Form1 form = new Form1();
+            LoginForm loginForm = new LoginForm(); 
             Application.Run(new Form1());
         }
     }
