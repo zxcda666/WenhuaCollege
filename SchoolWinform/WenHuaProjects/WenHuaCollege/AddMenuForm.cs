@@ -59,6 +59,11 @@ namespace WenHuaCollege
             this.Close();
             CurrentMenuPage.LoadMenu();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

@@ -16,9 +16,15 @@ namespace WenHuaCollege
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Form1 form = new Form1();
-            LoginForm loginForm = new LoginForm(); 
-            Application.Run(new Form1());
+
+            LoginForm loginForm = new LoginForm();
+            if (loginForm.ShowDialog() == DialogResult.OK)
+            {
+                // 登录成功，启动主窗体
+                Form1 form1 = new Form1();
+                GlobalClass.Instance().CurrentIndexForm = form1;
+                Application.Run(new Form1());
+            }
         }
     }
 }

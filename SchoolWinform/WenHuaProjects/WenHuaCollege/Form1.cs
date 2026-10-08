@@ -1,4 +1,5 @@
 using Newtonsoft.Json;
+using NPOI.OpenXmlFormats.Shared;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -26,8 +27,7 @@ namespace WenHuaCollege
         public Form1()
         {
             InitializeComponent();
-
-
+            this.Text = GlobalClass.Instance().CurrentLogin.Gender;
             //MyDelegate myDelegate = ShowMessage;
             //myDelegate("这是一条弹窗信息");
         }
@@ -58,9 +58,10 @@ namespace WenHuaCollege
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        public void LoadMenu()
         {
-
+            //清除所有的菜单控件
+            flPanelMenu.Controls.Clear();
             using (var db = new AppDbContext())
             {
                 //MessageBox.Show(db.Menus.ToList().Count.ToString());
@@ -90,7 +91,11 @@ namespace WenHuaCollege
                     flPanelMenu.Controls.Add(menuUC);
                 }
             }
+        }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            LoadMenu();
 
             //根据&符号分割，获得对应的菜单数据
             //foreach (MenuTModel menu in modelT)

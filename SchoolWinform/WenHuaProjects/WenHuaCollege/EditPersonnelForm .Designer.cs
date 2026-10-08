@@ -32,6 +32,8 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.label5 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txtAddress = new System.Windows.Forms.TextBox();
             this.btnAddPersonnel = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.txtGender = new System.Windows.Forms.TextBox();
@@ -42,8 +44,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.txtAddress = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.tableLayoutPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -95,6 +97,8 @@
             // 
             this.panel3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(87)))), ((int)(((byte)(162)))));
+            this.panel3.Controls.Add(this.comboBox1);
+            this.panel3.Controls.Add(this.label7);
             this.panel3.Controls.Add(this.label6);
             this.panel3.Controls.Add(this.txtAddress);
             this.panel3.Controls.Add(this.btnAddPersonnel);
@@ -108,8 +112,26 @@
             this.panel3.ForeColor = System.Drawing.Color.White;
             this.panel3.Location = new System.Drawing.Point(309, 151);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(549, 401);
+            this.panel3.Size = new System.Drawing.Size(549, 433);
             this.panel3.TabIndex = 0;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label6.Location = new System.Drawing.Point(63, 275);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(130, 24);
+            this.label6.TabIndex = 9;
+            this.label6.Text = "家庭住址：";
+            // 
+            // txtAddress
+            // 
+            this.txtAddress.Location = new System.Drawing.Point(208, 271);
+            this.txtAddress.Multiline = true;
+            this.txtAddress.Name = "txtAddress";
+            this.txtAddress.Size = new System.Drawing.Size(244, 87);
+            this.txtAddress.TabIndex = 8;
             // 
             // btnAddPersonnel
             // 
@@ -121,7 +143,7 @@
             this.btnAddPersonnel.ForeColor = System.Drawing.Color.Black;
             this.btnAddPersonnel.Image = global::WenHuaCollege.Properties.Resources.plus;
             this.btnAddPersonnel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAddPersonnel.Location = new System.Drawing.Point(67, 336);
+            this.btnAddPersonnel.Location = new System.Drawing.Point(67, 372);
             this.btnAddPersonnel.Name = "btnAddPersonnel";
             this.btnAddPersonnel.Size = new System.Drawing.Size(385, 40);
             this.btnAddPersonnel.TabIndex = 7;
@@ -214,23 +236,24 @@
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
-            // label6
+            // label7
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label6.Location = new System.Drawing.Point(63, 239);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(130, 24);
-            this.label6.TabIndex = 9;
-            this.label6.Text = "家庭住址：";
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label7.Location = new System.Drawing.Point(63, 233);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(82, 24);
+            this.label7.TabIndex = 11;
+            this.label7.Text = "角色：";
             // 
-            // txtAddress
+            // comboBox1
             // 
-            this.txtAddress.Location = new System.Drawing.Point(208, 235);
-            this.txtAddress.Multiline = true;
-            this.txtAddress.Name = "txtAddress";
-            this.txtAddress.Size = new System.Drawing.Size(244, 87);
-            this.txtAddress.TabIndex = 8;
+            this.comboBox1.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(208, 230);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(244, 32);
+            this.comboBox1.TabIndex = 12;
             // 
             // EditPersonnelForm
             // 
@@ -269,5 +292,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox txtAddress;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }

@@ -22,6 +22,8 @@ namespace WenHuaCollege
             InitializeComponent();
             CurrentPersonnelID = int.Parse(id);
 
+            comboBox1.DataSource = Enum.GetValues(typeof(RoleEnum));
+
             CurrentPersonnelPage = page;
             //通过id去查询数据库的菜单数据，直接绑定界面文本框中
             using (var DB = new AppDbContext())
@@ -30,6 +32,7 @@ namespace WenHuaCollege
                 this.txtPersonnelId.Text = model.PersonnelID.ToString();
                 this.txtName.Text = model.Name;
                 this.txtGender.Text = model.Gender;
+                this.comboBox1.SelectedItem = (RoleEnum)model.RoleID;//打开编辑，默认值自动显示对应的角色
                 this.txtAddress.Text = model.Address;
                 label5.Text = model.PersonnelID.ToString();
             }
@@ -42,6 +45,10 @@ namespace WenHuaCollege
             string name = txtName.Text;
             string gender = txtGender.Text;
             string address = txtAddress.Text;
+
+            RoleEnum selectedEnum = (RoleEnum)comboBox1.SelectedValue;
+            string text = selectedEnum.ToString();
+            int RoleID = (int)selectedEnum;
 
             if (string.IsNullOrEmpty(personnelId))
             {
@@ -71,9 +78,11 @@ namespace WenHuaCollege
                 PersonnelTModel model = db.Personnels.FirstOrDefault(m => m.PersonnelID == CurrentPersonnelID); 
                 model.Name = name;
                 model.Gender = gender;
+                model.RoleID = RoleID;
                 model.Address = address;
                 db.SaveChanges();
             }
+
             CurrentPersonnelPage.LoadData();
 
             MessageBox.Show("数据保存完成！");

@@ -31,7 +31,8 @@
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.btnAddPersonnel = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
+            this.txtAddress = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.txtGender = new System.Windows.Forms.TextBox();
             this.txtName = new System.Windows.Forms.TextBox();
@@ -40,9 +41,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.btnAddPersonnel = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.txtAddress = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.tableLayoutPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -76,11 +78,14 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1164, 726);
             this.panel1.TabIndex = 1;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // panel3
             // 
             this.panel3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(87)))), ((int)(((byte)(162)))));
+            this.panel3.Controls.Add(this.comboBox1);
+            this.panel3.Controls.Add(this.label6);
             this.panel3.Controls.Add(this.label5);
             this.panel3.Controls.Add(this.txtAddress);
             this.panel3.Controls.Add(this.btnAddPersonnel);
@@ -94,26 +99,26 @@
             this.panel3.ForeColor = System.Drawing.Color.White;
             this.panel3.Location = new System.Drawing.Point(309, 151);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(549, 400);
+            this.panel3.Size = new System.Drawing.Size(549, 427);
             this.panel3.TabIndex = 0;
             // 
-            // btnAddPersonnel
+            // label5
             // 
-            this.btnAddPersonnel.BackColor = System.Drawing.Color.White;
-            this.btnAddPersonnel.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnAddPersonnel.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.btnAddPersonnel.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(87)))), ((int)(((byte)(162)))));
-            this.btnAddPersonnel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAddPersonnel.ForeColor = System.Drawing.Color.Black;
-            this.btnAddPersonnel.Image = global::WenHuaCollege.Properties.Resources.plus;
-            this.btnAddPersonnel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAddPersonnel.Location = new System.Drawing.Point(67, 331);
-            this.btnAddPersonnel.Name = "btnAddPersonnel";
-            this.btnAddPersonnel.Size = new System.Drawing.Size(385, 40);
-            this.btnAddPersonnel.TabIndex = 7;
-            this.btnAddPersonnel.Text = "添加";
-            this.btnAddPersonnel.UseVisualStyleBackColor = false;
-            this.btnAddPersonnel.Click += new System.EventHandler(this.btnSave_Click);
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label5.Location = new System.Drawing.Point(63, 274);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(130, 24);
+            this.label5.TabIndex = 9;
+            this.label5.Text = "家庭住址：";
+            // 
+            // txtAddress
+            // 
+            this.txtAddress.Location = new System.Drawing.Point(208, 270);
+            this.txtAddress.Multiline = true;
+            this.txtAddress.Name = "txtAddress";
+            this.txtAddress.Size = new System.Drawing.Size(244, 102);
+            this.txtAddress.TabIndex = 8;
             // 
             // label4
             // 
@@ -187,6 +192,24 @@
             this.panel2.Size = new System.Drawing.Size(1164, 100);
             this.panel2.TabIndex = 2;
             // 
+            // btnAddPersonnel
+            // 
+            this.btnAddPersonnel.BackColor = System.Drawing.Color.White;
+            this.btnAddPersonnel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnAddPersonnel.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnAddPersonnel.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(87)))), ((int)(((byte)(162)))));
+            this.btnAddPersonnel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAddPersonnel.ForeColor = System.Drawing.Color.Black;
+            this.btnAddPersonnel.Image = global::WenHuaCollege.Properties.Resources.plus;
+            this.btnAddPersonnel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnAddPersonnel.Location = new System.Drawing.Point(67, 378);
+            this.btnAddPersonnel.Name = "btnAddPersonnel";
+            this.btnAddPersonnel.Size = new System.Drawing.Size(385, 40);
+            this.btnAddPersonnel.TabIndex = 7;
+            this.btnAddPersonnel.Text = "添加";
+            this.btnAddPersonnel.UseVisualStyleBackColor = false;
+            this.btnAddPersonnel.Click += new System.EventHandler(this.btnSave_Click);
+            // 
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(112)))), ((int)(((byte)(196)))));
@@ -200,23 +223,24 @@
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
-            // label5
+            // label6
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label5.Location = new System.Drawing.Point(63, 227);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(130, 24);
-            this.label5.TabIndex = 9;
-            this.label5.Text = "家庭住址：";
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label6.Location = new System.Drawing.Point(63, 224);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(82, 24);
+            this.label6.TabIndex = 11;
+            this.label6.Text = "角色：";
             // 
-            // txtAddress
+            // comboBox1
             // 
-            this.txtAddress.Location = new System.Drawing.Point(208, 223);
-            this.txtAddress.Multiline = true;
-            this.txtAddress.Name = "txtAddress";
-            this.txtAddress.Size = new System.Drawing.Size(244, 102);
-            this.txtAddress.TabIndex = 8;
+            this.comboBox1.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(208, 224);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(244, 26);
+            this.comboBox1.TabIndex = 12;
             // 
             // AddPersonnelForm
             // 
@@ -253,5 +277,7 @@
         private System.Windows.Forms.TextBox txtGender;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txtAddress;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }

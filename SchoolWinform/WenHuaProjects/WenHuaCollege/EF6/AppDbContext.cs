@@ -24,5 +24,7 @@ namespace WenHuaCollege.EF6
         public DbSet<MenuTModel> Menus { get; set; } 
 
         public DbSet<PersonnelTModel> Personnels { get; set; }
+
+        public DbSet<PermissionsTModel> permissions { get; set; }
     }
 }

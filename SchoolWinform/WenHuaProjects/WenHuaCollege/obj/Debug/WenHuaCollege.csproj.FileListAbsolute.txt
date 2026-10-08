@@ -106,3 +106,8 @@ D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Debug\Syst
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\bin\Debug\ZString.xml
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Migrations.AddUserPassword.resources
 D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.LoginForm.resources
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Migrations.AddRoleIdColumn.resources
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Migrations.SyncModelChange.resources
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Pages.MenuFunctionPage.resources
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Pages.PermissionsPage.resources
+D:\code1\WenhuaCollege\SchoolWinform\WenHuaProjects\WenHuaCollege\obj\Debug\WenHuaCollege.Migrations.AddPermissionsTModel.resources

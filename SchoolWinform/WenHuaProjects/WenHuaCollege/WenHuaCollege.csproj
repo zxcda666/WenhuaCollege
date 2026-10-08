@@ -125,6 +125,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EF6\PermissionsTModel.cs" />
+    <Compile Include="GlobalClass.cs" />
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -164,6 +166,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="MenuFunctionEnum.cs" />
     <Compile Include="Migrations\202609281145266_InitialCreate.cs" />
     <Compile Include="Migrations\202609281145266_InitialCreate.Designer.cs">
       <DependentUpon>202609281145266_InitialCreate.cs</DependentUpon>
@@ -180,6 +183,18 @@
     <Compile Include="Migrations\202610041625517_AddUserPassword.Designer.cs">
       <DependentUpon>202610041625517_AddUserPassword.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202610051257466_AddRoleIdColumn.cs" />
+    <Compile Include="Migrations\202610051257466_AddRoleIdColumn.Designer.cs">
+      <DependentUpon>202610051257466_AddRoleIdColumn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202610051312362_SyncModelChange.cs" />
+    <Compile Include="Migrations\202610051312362_SyncModelChange.Designer.cs">
+      <DependentUpon>202610051312362_SyncModelChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202610071435567_AddPermissionsTModel.cs" />
+    <Compile Include="Migrations\202610071435567_AddPermissionsTModel.Designer.cs">
+      <DependentUpon>202610071435567_AddPermissionsTModel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\MenuModel.cs" />
     <Compile Include="Pages\HomePage.cs">
@@ -187,6 +202,18 @@
     </Compile>
     <Compile Include="Pages\HomePage.Designer.cs">
       <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MenuFunctionPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\MenuFunctionPage.Designer.cs">
+      <DependentUpon>MenuFunctionPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PermissionsPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\PermissionsPage.Designer.cs">
+      <DependentUpon>PermissionsPage.cs</DependentUpon>
     </Compile>
     <Compile Include="Pages\PersonnelPage.cs">
       <SubType>UserControl</SubType>
@@ -208,6 +235,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoleEnum.cs" />
     <Compile Include="UserControls\MenuUC.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -244,8 +272,23 @@
     <EmbeddedResource Include="Migrations\202610041625517_AddUserPassword.resx">
       <DependentUpon>202610041625517_AddUserPassword.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202610051257466_AddRoleIdColumn.resx">
+      <DependentUpon>202610051257466_AddRoleIdColumn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202610051312362_SyncModelChange.resx">
+      <DependentUpon>202610051312362_SyncModelChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202610071435567_AddPermissionsTModel.resx">
+      <DependentUpon>202610071435567_AddPermissionsTModel.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Pages\HomePage.resx">
       <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\MenuFunctionPage.resx">
+      <DependentUpon>MenuFunctionPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PermissionsPage.resx">
+      <DependentUpon>PermissionsPage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pages\PersonnelPage.resx">
       <DependentUpon>PersonnelPage.cs</DependentUpon>

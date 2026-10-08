@@ -30,7 +30,6 @@
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btnAddMenu = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -38,13 +37,15 @@
             this.label1 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.btnExportExcel = new System.Windows.Forms.Button();
+            this.btnImportExcel = new System.Windows.Forms.Button();
+            this.btnAddMenu = new System.Windows.Forms.Button();
             this.ColPersonnelID = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColGender = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColRole = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColAddress = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColOperation = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.btnImportExcel = new System.Windows.Forms.Button();
-            this.btnExportExcel = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -81,23 +82,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(843, 70);
             this.panel1.TabIndex = 0;
-            // 
-            // btnAddMenu
-            // 
-            this.btnAddMenu.BackColor = System.Drawing.Color.White;
-            this.btnAddMenu.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnAddMenu.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.btnAddMenu.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(87)))), ((int)(((byte)(162)))));
-            this.btnAddMenu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAddMenu.Image = global::WenHuaCollege.Properties.Resources.plus;
-            this.btnAddMenu.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAddMenu.Location = new System.Drawing.Point(16, 15);
-            this.btnAddMenu.Name = "btnAddMenu";
-            this.btnAddMenu.Size = new System.Drawing.Size(100, 40);
-            this.btnAddMenu.TabIndex = 0;
-            this.btnAddMenu.Text = "添加";
-            this.btnAddMenu.UseVisualStyleBackColor = false;
-            this.btnAddMenu.Click += new System.EventHandler(this.btnAddMenu_Click);
             // 
             // panel2
             // 
@@ -171,6 +155,7 @@
             this.ColPersonnelID,
             this.ColName,
             this.ColGender,
+            this.ColRole,
             this.ColAddress,
             this.ColOperation});
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -183,6 +168,57 @@
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             this.dataGridView1.CellMouseMove += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView1_CellMouseMove);
             this.dataGridView1.CellPainting += new System.Windows.Forms.DataGridViewCellPaintingEventHandler(this.dataGridView1_CellPainting_1);
+            // 
+            // btnExportExcel
+            // 
+            this.btnExportExcel.BackColor = System.Drawing.Color.White;
+            this.btnExportExcel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnExportExcel.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnExportExcel.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(87)))), ((int)(((byte)(162)))));
+            this.btnExportExcel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnExportExcel.Image = global::WenHuaCollege.Properties.Resources.export_excel;
+            this.btnExportExcel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnExportExcel.Location = new System.Drawing.Point(309, 15);
+            this.btnExportExcel.Name = "btnExportExcel";
+            this.btnExportExcel.Size = new System.Drawing.Size(134, 40);
+            this.btnExportExcel.TabIndex = 2;
+            this.btnExportExcel.Text = "Excel导出";
+            this.btnExportExcel.UseVisualStyleBackColor = false;
+            this.btnExportExcel.Click += new System.EventHandler(this.btnExportExcel_Click);
+            // 
+            // btnImportExcel
+            // 
+            this.btnImportExcel.BackColor = System.Drawing.Color.White;
+            this.btnImportExcel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnImportExcel.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnImportExcel.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(87)))), ((int)(((byte)(162)))));
+            this.btnImportExcel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnImportExcel.Image = global::WenHuaCollege.Properties.Resources.import_excel;
+            this.btnImportExcel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnImportExcel.Location = new System.Drawing.Point(145, 15);
+            this.btnImportExcel.Name = "btnImportExcel";
+            this.btnImportExcel.Size = new System.Drawing.Size(134, 40);
+            this.btnImportExcel.TabIndex = 1;
+            this.btnImportExcel.Text = "Excel导入";
+            this.btnImportExcel.UseVisualStyleBackColor = false;
+            this.btnImportExcel.Click += new System.EventHandler(this.btnImportExcel_Click);
+            // 
+            // btnAddMenu
+            // 
+            this.btnAddMenu.BackColor = System.Drawing.Color.White;
+            this.btnAddMenu.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnAddMenu.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnAddMenu.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(87)))), ((int)(((byte)(162)))));
+            this.btnAddMenu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAddMenu.Image = global::WenHuaCollege.Properties.Resources.plus;
+            this.btnAddMenu.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnAddMenu.Location = new System.Drawing.Point(16, 15);
+            this.btnAddMenu.Name = "btnAddMenu";
+            this.btnAddMenu.Size = new System.Drawing.Size(100, 40);
+            this.btnAddMenu.TabIndex = 0;
+            this.btnAddMenu.Text = "添加";
+            this.btnAddMenu.UseVisualStyleBackColor = false;
+            this.btnAddMenu.Click += new System.EventHandler(this.btnAddMenu_Click);
             // 
             // ColPersonnelID
             // 
@@ -208,6 +244,14 @@
             this.ColGender.MinimumWidth = 8;
             this.ColGender.Name = "ColGender";
             // 
+            // ColRole
+            // 
+            this.ColRole.DataPropertyName = "RoleName";
+            this.ColRole.HeaderText = "角色";
+            this.ColRole.MinimumWidth = 8;
+            this.ColRole.Name = "ColRole";
+            this.ColRole.Width = 150;
+            // 
             // ColAddress
             // 
             this.ColAddress.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
@@ -222,40 +266,6 @@
             this.ColOperation.HeaderText = "操作";
             this.ColOperation.MinimumWidth = 8;
             this.ColOperation.Name = "ColOperation";
-            // 
-            // btnImportExcel
-            // 
-            this.btnImportExcel.BackColor = System.Drawing.Color.White;
-            this.btnImportExcel.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnImportExcel.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.btnImportExcel.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(87)))), ((int)(((byte)(162)))));
-            this.btnImportExcel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnImportExcel.Image = global::WenHuaCollege.Properties.Resources.import_excel;
-            this.btnImportExcel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnImportExcel.Location = new System.Drawing.Point(145, 15);
-            this.btnImportExcel.Name = "btnImportExcel";
-            this.btnImportExcel.Size = new System.Drawing.Size(134, 40);
-            this.btnImportExcel.TabIndex = 1;
-            this.btnImportExcel.Text = "Excel导入";
-            this.btnImportExcel.UseVisualStyleBackColor = false;
-            this.btnImportExcel.Click += new System.EventHandler(this.btnImportExcel_Click);
-            // 
-            // btnExportExcel
-            // 
-            this.btnExportExcel.BackColor = System.Drawing.Color.White;
-            this.btnExportExcel.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnExportExcel.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.btnExportExcel.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(87)))), ((int)(((byte)(162)))));
-            this.btnExportExcel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnExportExcel.Image = global::WenHuaCollege.Properties.Resources.export_excel;
-            this.btnExportExcel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnExportExcel.Location = new System.Drawing.Point(309, 15);
-            this.btnExportExcel.Name = "btnExportExcel";
-            this.btnExportExcel.Size = new System.Drawing.Size(134, 40);
-            this.btnExportExcel.TabIndex = 2;
-            this.btnExportExcel.Text = "Excel导出";
-            this.btnExportExcel.UseVisualStyleBackColor = false;
-            this.btnExportExcel.Click += new System.EventHandler(this.btnExportExcel_Click);
             // 
             // PersonnelPage
             // 
@@ -287,12 +297,13 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button btnImportExcel;
+        private System.Windows.Forms.Button btnExportExcel;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColPersonnelID;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColName;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColGender;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ColRole;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColAddress;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColOperation;
-        private System.Windows.Forms.Button btnImportExcel;
-        private System.Windows.Forms.Button btnExportExcel;
     }
 }

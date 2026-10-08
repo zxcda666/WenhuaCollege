@@ -103,14 +103,15 @@
             this.btnAddMenu.Name = "btnAddMenu";
             this.btnAddMenu.Size = new System.Drawing.Size(385, 40);
             this.btnAddMenu.TabIndex = 7;
-            this.btnAddMenu.Text = "添加";
+            this.btnAddMenu.Text = "登录";
             this.btnAddMenu.UseVisualStyleBackColor = false;
-            this.btnAddMenu.Click += new System.EventHandler(this.btnAddMenu_Click);
+            this.btnAddMenu.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // txtUserPassword
             // 
             this.txtUserPassword.Location = new System.Drawing.Point(167, 135);
             this.txtUserPassword.Name = "txtUserPassword";
+            this.txtUserPassword.PasswordChar = '*';
             this.txtUserPassword.Size = new System.Drawing.Size(285, 28);
             this.txtUserPassword.TabIndex = 4;
             // 

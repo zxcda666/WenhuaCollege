@@ -22,6 +22,35 @@ namespace WenHuaCollege.EF6
         //家庭住址 
         public string Address { get; set; }
 
-    }
 
+        public int RoleID { get; set; }//角色ID
+
+        [NotMapped]
+        //public string RoleName
+        //{
+        //    get
+        //    {
+        //        string name = "";
+        //        if (RoleID == 1)
+        //            name = "学生";
+        //        else if (RoleID == 2)
+        //            name = "教师";
+        //        else if (RoleID == 3)
+        //            name = "超级管理员";
+        //        else
+        //            name = "未知角色";
+        //        return name;
+        //    }
+        //}
+        public string RoleName
+        {
+            get
+            {
+                if (!Enum.IsDefined(typeof(RoleEnum), RoleID))
+                    return "未知角色";
+                RoleEnum role = (RoleEnum)RoleID;
+                return role.ToString();
+            }
+        }
+    }
 }
