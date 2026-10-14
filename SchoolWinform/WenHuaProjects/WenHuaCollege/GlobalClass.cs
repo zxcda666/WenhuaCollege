@@ -21,7 +21,10 @@ namespace WenHuaCollege
         }
 
         //当前登录的用户信息
-        public PersonnelTModel CurrentLogin { get; set; }
+        public PersonnelTModel CurrentLoginUser { get; set; }
+
+        //当前登录用户所属的角色权限信息
+        public List<PermissionsTModel> UserPermissions { get; set; }
 
         public Form1 CurrentIndexForm { get; set; }
     }

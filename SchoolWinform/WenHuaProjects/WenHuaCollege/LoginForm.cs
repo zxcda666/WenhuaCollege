@@ -46,7 +46,11 @@ namespace WenHuaCollege
                     MessageBox.Show("输入的用户名或密码不正确！");
                     return;
                 }
-                GlobalClass.Instance().CurrentLogin = model;
+                //用当前登录用户的角色信息，查询对应的权限信息
+
+                GlobalClass.Instance().UserPermissions = DB.permissions.Where(m => m.RoleID == model.RoleID).ToList();
+
+                GlobalClass.Instance().CurrentLoginUser = model;
             }
 
             this.DialogResult = DialogResult.OK; 

@@ -3,127 +3,127 @@
   "WorkspaceRootPath": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\migrations\\202610071435567_addpermissionstmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\migrations\\202610071435567_addpermissionstmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\ef6\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\ef6\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\ef6\\permissionstmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\ef6\\permissionstmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\ef6\\personneltmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\ef6\\personneltmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\pages\\permissionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\permissionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\pages\\menufunctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\menufunctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\pages\\permissionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\permissionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\pages\\menufunctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\menufunctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\menufunctionenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\menufunctionenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\models\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\models\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\pages\\settingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\settingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\pages\\personnelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\personnelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\pages\\personnelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\personnelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\globalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\globalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\pages\\personnelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\personnelpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\editmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\editmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\addpersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\addpersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\editpersonnelform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\editpersonnelform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\pages\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\globalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\globalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\pages\\permissionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\permissionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\pages\\menufunctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\menufunctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\pages\\menufunctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\menufunctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\pages\\permissionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\permissionspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\ef6\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\ef6\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\ef6\\menutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\ef6\\menutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\pages\\settingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\settingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\ef6\\personneltmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\ef6\\personneltmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\pages\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\editmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\models\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\models\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\ef6\\permissionstmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\ef6\\permissionstmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\menufunctionenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\menufunctionenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\addmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\editmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\editmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\addpersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\addpersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\editpersonnelform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\editpersonnelform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\editmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\editmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\addpersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\addpersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\addpersonnelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\editpersonnelform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\editpersonnelform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\editpersonnelform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|d:\\code1\\wenhuacollege\\schoolwinform\\wenhuaprojects\\wenhuacollege\\migrations\\202610051257466_addroleidcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\wenhuacollege\\migrations\\202610051257466_addroleidcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520E3461-2F89-4BC5-AF42-BA9E43C251F2}|WenHuaCollege\\WenHuaCollege.csproj|solutionrelative:wenhuacollege\\migrations\\202610051257466_addroleidcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -138,69 +138,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "202610071435567_AddPermissionsTModel.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Migrations\\202610071435567_AddPermissionsTModel.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\Migrations\\202610071435567_AddPermissionsTModel.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Migrations\\202610071435567_AddPermissionsTModel.cs",
-              "RelativeToolTip": "WenHuaCollege\\Migrations\\202610071435567_AddPermissionsTModel.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAywBgAAAApAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\LoginForm.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\LoginForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WenHuaCollege\\LoginForm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T14:36:03.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T16:43:52.228Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\EF6\\AppDbContext.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\AppDbContext.cs",
-              "RelativeToolTip": "WenHuaCollege\\EF6\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T14:27:55.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PermissionsPage.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PermissionsPage.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\PermissionsPage.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PermissionsPage.cs",
-              "RelativeToolTip": "WenHuaCollege\\Pages\\PermissionsPage.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T11:12:44.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuFunctionPage.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\MenuFunctionPage.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\MenuFunctionPage.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\MenuFunctionPage.cs",
-              "RelativeToolTip": "WenHuaCollege\\Pages\\MenuFunctionPage.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T11:38:02.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\LoginForm.cs",
               "RelativeDocumentMoniker": "WenHuaCollege\\LoginForm.cs",
               "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\LoginForm.cs",
               "RelativeToolTip": "WenHuaCollege\\LoginForm.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAwCoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T16:44:23.887Z",
               "EditorCaption": ""
@@ -208,32 +168,108 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PermissionsTModel.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\PermissionsTModel.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\EF6\\PermissionsTModel.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\PermissionsTModel.cs",
-              "RelativeToolTip": "WenHuaCollege\\EF6\\PermissionsTModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAMAAAAAAAAAA==",
+              "Title": "PersonnelPage.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PersonnelPage.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\PersonnelPage.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PersonnelPage.cs",
+              "RelativeToolTip": "WenHuaCollege\\Pages\\PersonnelPage.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA8wGQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T12:50:31.823Z",
+              "WhenOpened": "2026-10-05T04:28:27.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PersonnelTModel.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\PersonnelTModel.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\EF6\\PersonnelTModel.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\PersonnelTModel.cs",
-              "RelativeToolTip": "WenHuaCollege\\EF6\\PersonnelTModel.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBkAAAAtAAAAAAAAAA==",
+              "Title": "PersonnelPage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PersonnelPage.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\PersonnelPage.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PersonnelPage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WenHuaCollege\\Pages\\PersonnelPage.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T16:21:45.397Z",
+              "WhenOpened": "2026-10-13T08:27:18.354Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Form1.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\Form1.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WenHuaCollege\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:28:12.496Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Form1.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\Form1.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Form1.cs",
+              "RelativeToolTip": "WenHuaCollege\\Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:28:42.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuFunctionPage.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\MenuFunctionPage.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\MenuFunctionPage.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\MenuFunctionPage.cs",
+              "RelativeToolTip": "WenHuaCollege\\Pages\\MenuFunctionPage.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T11:38:02.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "PermissionsPage.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PermissionsPage.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\PermissionsPage.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PermissionsPage.cs",
+              "RelativeToolTip": "WenHuaCollege\\Pages\\PermissionsPage.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T11:12:44.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuTModel.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\MenuTModel.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\EF6\\MenuTModel.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\MenuTModel.cs",
+              "RelativeToolTip": "WenHuaCollege\\EF6\\MenuTModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:43:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalClass.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\GlobalClass.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\GlobalClass.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\GlobalClass.cs",
+              "RelativeToolTip": "WenHuaCollege\\GlobalClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T05:20:37.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "PermissionsPage.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PermissionsPage.cs",
               "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\PermissionsPage.cs",
@@ -245,7 +281,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\EF6\\AppDbContext.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\AppDbContext.cs",
+              "RelativeToolTip": "WenHuaCollege\\EF6\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T14:27:55.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MenuFunctionPage.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\MenuFunctionPage.cs",
               "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\MenuFunctionPage.cs",
@@ -253,107 +302,6 @@
               "RelativeToolTip": "WenHuaCollege\\Pages\\MenuFunctionPage.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T11:08:29.147Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomePage.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\HomePage.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\HomePage.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\HomePage.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "WenHuaCollege\\Pages\\HomePage.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T16:15:22.852Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuFunctionEnum.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\MenuFunctionEnum.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\MenuFunctionEnum.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\MenuFunctionEnum.cs",
-              "RelativeToolTip": "WenHuaCollege\\MenuFunctionEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T11:55:41.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddMenuForm.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddMenuForm.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\AddMenuForm.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddMenuForm.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "WenHuaCollege\\AddMenuForm.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T13:00:08.391Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AddMenuForm.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddMenuForm.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\AddMenuForm.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddMenuForm.cs",
-              "RelativeToolTip": "WenHuaCollege\\AddMenuForm.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T10:26:39.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MenuModel.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Models\\MenuModel.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\Models\\MenuModel.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Models\\MenuModel.cs",
-              "RelativeToolTip": "WenHuaCollege\\Models\\MenuModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T11:23:53.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PersonnelPage.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PersonnelPage.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\PersonnelPage.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PersonnelPage.cs",
-              "RelativeToolTip": "WenHuaCollege\\Pages\\PersonnelPage.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAnwMwAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T04:28:27.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GlobalClass.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\GlobalClass.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\GlobalClass.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\GlobalClass.cs",
-              "RelativeToolTip": "WenHuaCollege\\GlobalClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T05:20:37.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PersonnelPage.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PersonnelPage.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\PersonnelPage.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\PersonnelPage.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "WenHuaCollege\\Pages\\PersonnelPage.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T12:56:03.649Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
@@ -370,106 +318,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Form1.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\Form1.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Form1.cs",
-              "RelativeToolTip": "WenHuaCollege\\Form1.cs",
-              "ViewState": "AgIAALEAAAAAAAAAAAAowE4AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "PersonnelTModel.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\PersonnelTModel.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\EF6\\PersonnelTModel.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\PersonnelTModel.cs",
+              "RelativeToolTip": "WenHuaCollege\\EF6\\PersonnelTModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T05:28:42.47Z",
+              "WhenOpened": "2026-10-04T16:21:45.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Form1.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\Form1.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Form1.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "WenHuaCollege\\Form1.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T05:28:12.496Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RoleEnum.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\RoleEnum.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\RoleEnum.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\RoleEnum.cs",
-              "RelativeToolTip": "WenHuaCollege\\RoleEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T14:58:00.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Program.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\Program.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Program.cs",
-              "RelativeToolTip": "WenHuaCollege\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T16:53:42.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AddPersonnelForm.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddPersonnelForm.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\AddPersonnelForm.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddPersonnelForm.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "WenHuaCollege\\AddPersonnelForm.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T13:00:09.596Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "EditMenuForm.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EditMenuForm.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\EditMenuForm.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EditMenuForm.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "WenHuaCollege\\EditMenuForm.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T16:15:07.696Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "EditPersonnelForm .cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EditPersonnelForm .cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\EditPersonnelForm .cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EditPersonnelForm .cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "WenHuaCollege\\EditPersonnelForm .cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T15:39:42.922Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "LoginForm.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\LoginForm.cs",
-              "RelativeDocumentMoniker": "WenHuaCollege\\LoginForm.cs",
-              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\LoginForm.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "WenHuaCollege\\LoginForm.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T16:43:52.228Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 15,
               "Title": "MenuPage.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\MenuPage.cs",
               "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\MenuPage.cs",
@@ -481,6 +343,135 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuModel.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Models\\MenuModel.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\Models\\MenuModel.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Models\\MenuModel.cs",
+              "RelativeToolTip": "WenHuaCollege\\Models\\MenuModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T11:23:53.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PermissionsTModel.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\PermissionsTModel.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\EF6\\PermissionsTModel.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EF6\\PermissionsTModel.cs",
+              "RelativeToolTip": "WenHuaCollege\\EF6\\PermissionsTModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T12:50:31.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomePage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\Pages\\HomePage.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Pages\\HomePage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WenHuaCollege\\Pages\\HomePage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:15:22.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuFunctionEnum.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\MenuFunctionEnum.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\MenuFunctionEnum.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\MenuFunctionEnum.cs",
+              "RelativeToolTip": "WenHuaCollege\\MenuFunctionEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T11:55:41.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddMenuForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddMenuForm.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\AddMenuForm.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddMenuForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WenHuaCollege\\AddMenuForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:00:08.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddMenuForm.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddMenuForm.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\AddMenuForm.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddMenuForm.cs",
+              "RelativeToolTip": "WenHuaCollege\\AddMenuForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T10:26:39.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\RoleEnum.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\RoleEnum.cs",
+              "RelativeToolTip": "WenHuaCollege\\RoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:58:00.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Program.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\Program.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\Program.cs",
+              "RelativeToolTip": "WenHuaCollege\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:53:42.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddPersonnelForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddPersonnelForm.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\AddPersonnelForm.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\AddPersonnelForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WenHuaCollege\\AddPersonnelForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:00:09.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditMenuForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EditMenuForm.cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\EditMenuForm.cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EditMenuForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WenHuaCollege\\EditMenuForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:15:07.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditPersonnelForm .cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EditPersonnelForm .cs",
+              "RelativeDocumentMoniker": "WenHuaCollege\\EditPersonnelForm .cs",
+              "ToolTip": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EditPersonnelForm .cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WenHuaCollege\\EditPersonnelForm .cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:39:42.922Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
               "Title": "EditMenuForm.cs",
               "DocumentMoniker": "D:\\code1\\WenhuaCollege\\SchoolWinform\\WenHuaProjects\\WenHuaCollege\\EditMenuForm.cs",
@@ -489,8 +480,7 @@
               "RelativeToolTip": "WenHuaCollege\\EditMenuForm.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAIwB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T15:44:11.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T15:44:11.56Z"
             },
             {
               "$type": "Document",
@@ -502,8 +492,7 @@
               "RelativeToolTip": "WenHuaCollege\\AddPersonnelForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T14:36:46.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T14:36:46.541Z"
             },
             {
               "$type": "Document",
@@ -515,8 +504,7 @@
               "RelativeToolTip": "WenHuaCollege\\EditPersonnelForm .cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAmwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T15:45:34.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T15:45:34.137Z"
             },
             {
               "$type": "Document",
@@ -528,8 +516,7 @@
               "RelativeToolTip": "WenHuaCollege\\Migrations\\202610051257466_AddRoleIdColumn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T12:57:52.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T12:57:52.646Z"
             },
             {
               "$type": "Document",
@@ -541,8 +528,7 @@
               "RelativeToolTip": "WenHuaCollege\\Migrations\\202610041625517_AddUserPassword.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T16:25:58.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T16:25:58.536Z"
             }
           ]
         }

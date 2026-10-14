@@ -27,7 +27,7 @@ namespace WenHuaCollege
         public Form1()
         {
             InitializeComponent();
-            this.Text = GlobalClass.Instance().CurrentLogin.Gender;
+            this.Text = GlobalClass.Instance().CurrentLoginUser.Gender;
             //MyDelegate myDelegate = ShowMessage;
             //myDelegate("这是一条弹窗信息");
         }
@@ -69,6 +69,27 @@ namespace WenHuaCollege
 
                 foreach (MenuTModel menu in LstMenu)
                 {
+                    //看看当前遍历到的菜单，有没有查看的权限
+                    bool isInPermissions = false;
+                    foreach(var item in GlobalClass.Instance().UserPermissions)
+                    {
+                        if(item.MenuPage == menu.MenuPage)
+                        {
+                            //验证功能中是否有查看
+                            if(item.Functions.Contains(MenuFunctionEnum.查看.ToString()))
+                            {
+                                isInPermissions = true;
+                                break;
+                            }
+                        }
+                    }
+
+                    if (!isInPermissions)
+                    {
+                        continue;
+                    }
+
+
                     MenuUC menuUC = new MenuUC();
                     menuUC.MenuText = menu.MenuText;
                     menuUC.MenuImage = GetBitmapFromResx(menu.MenuImage);

@@ -81,6 +81,25 @@ namespace WenHuaCollege.Pages
         //打开添加菜单的页面
         private void btnAddMenu_Click(object sender, EventArgs e)
         {
+            bool isInPermission = false;
+            //验证当前登录的用户有没有此功能的操作权限
+            foreach(var item in GlobalClass.Instance().UserPermissions)
+            {
+                if(item.MenuPage=="PersonnelPage")
+                {
+                    if(item.Functions.Contains(MenuFunctionEnum.增加.ToString()))
+                    {
+                        isInPermission = true;
+                        break;
+                    }
+                }
+            }
+
+            if (!isInPermission)
+            {
+                MessageBox.Show("你当前没有权限这么操作");
+                return;
+            }
 
             //AddMenuForm addMenuForm = new AddMenuForm(this);
             //addMenuForm.ShowDialog();
